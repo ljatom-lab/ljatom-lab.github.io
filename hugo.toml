@@ -1,0 +1,4 @@
+baseURL = 'https://ljatom-lab.github.io/'
+languageCode = 'zh-cn'
+title = '隅言手记'
+theme = 'ananke'
