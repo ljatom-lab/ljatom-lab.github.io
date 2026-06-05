@@ -5,9 +5,11 @@
 		<link>http://localhost:1313/posts/</link>
 		<description>Recent content in Posts on 隅言手记</description>
 		<generator>Hugo</generator>
-		<language>zh-cn</language>
+		<language>zh-Hans</language>
 		
 		
+		
+			<copyright>© 2026 隅言手记</copyright>
 		
 		
 			<lastBuildDate>Fri, 05 Jun 2026 12:00:00 +0800</lastBuildDate>
@@ -18,7 +20,14 @@
 				<link>http://localhost:1313/posts/test-post/</link>
 				<pubDate>Fri, 05 Jun 2026 12:00:00 +0800</pubDate>
 				<guid>http://localhost:1313/posts/test-post/</guid>
-				<description>&lt;p&gt;这是我的第一篇 Hugo 博客文章。&lt;/p&gt;&#xA;&lt;p&gt;我正在测试 Markdown、图片和 GitHub Pages 的发布流程。&lt;/p&gt;</description>
+				<description></description>
+			</item>
+			<item>
+				<title>配图文章测试</title>
+				<link>http://localhost:1313/posts/image-test/</link>
+				<pubDate>Fri, 05 Jun 2026 10:00:00 +0800</pubDate>
+				<guid>http://localhost:1313/posts/image-test/</guid>
+				<description>&lt;p&gt;这是一篇用于测试 Hugo 图片显示效果的文章。&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

@@ -1,0 +1,22 @@
+locale = "zh-Hans"
+label = "简体中文"
+direction = "ltr"
+weight = 1
+
+title = "隅言手记"
+copyright = "© 2026 隅言手记"
+
+[params]
+  dateFormat = "2006年1月2日"
+
+mainSections = ["posts"]
+description = "一个记录个人思考、阅读与生活感受的博客"
+
+[params.author]
+  name = "隅言手记"
+  image = "img/author.png"
+  headline = "一些私人、零散而真实的念头"
+  bio = "这里没有真理，只有偏见。"
+  links = [
+    { github = "https://github.com/ljatom-lab" },
+  ]
