@@ -1,11 +1,11 @@
 +++
 title = "补课和表达"
 date = 2025-08-12T00:00:00+08:00
-draft = true
+draft = false
 slug = "make-up-and-expression"
 description = "借生病后的写作补上表达的功课，也重新整理与世界相处的方式。"
 tags = ["个人随笔", "人生感悟"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 最近有家人看了我写的文字，坦言感觉有些沉重，好在能理解我字里行间的心绪。这让我想聊聊，为何生病后，我会开始提笔写点东西。

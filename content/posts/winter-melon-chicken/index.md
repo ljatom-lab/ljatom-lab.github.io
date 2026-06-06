@@ -1,11 +1,11 @@
 +++
 title = "冬瓜盅煲鸡"
 date = 2025-04-28T00:00:00+08:00
-draft = true
+draft = false
 slug = "winter-melon-chicken"
 description = "从一顿被照顾的饭里，写下病中寄居生活的温暖与拘束。"
 tags = ["个人随笔", "健康记录"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 暮色渐深，指针悄然滑向九点。在袁姨家借住的第三天，她的照顾依然细致入微，还总留意着我的拘束。昨天晚上被带去第一次吃了冬瓜盅煲鸡，一种将清润与鲜美完美交融的时令佳肴，做法也是第一次见，取一只青皮冬瓜，在顶部轻轻旋开一扇小窗，掏去瓤籽，让其成为一方碧玉盅；半只土鸡切好丝块，大骨架与泡发的香菇、红枣、姜片一同纳入盅中，剩下的带皮鸡肉放在周围蒸盘上，最后覆上锅盖，慢火隔水而煨。

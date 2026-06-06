@@ -1,11 +1,11 @@
 +++
 title = "我的扭捏"
 date = 2025-06-21T00:00:00+08:00
-draft = true
+draft = false
 slug = "my-awkwardness"
 description = "反思病中分享欲的退潮，以及在抗癌叙事之外保留复杂自我的扭捏。"
 tags = ["健康记录", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 又是好几天没有更新。主要源于一种莫名的分享欲消退——不知该说什么，又能说什么。

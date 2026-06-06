@@ -1,11 +1,11 @@
 +++
 title = "梦中牌局"
 date = 2025-04-17T00:00:00+08:00
-draft = true
+draft = false
 slug = "dream-card-game"
 description = "从一场梦中的牌局写起，记录病中潜意识里的焦虑与自我安慰。"
 tags = ["个人随笔", "健康记录"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 昨晚早早躺下，勉强咽下最后一口糊糊就在房间里慢慢转圈。十平米的小屋刚好够来回踱步，数着地砖缝走二十来分钟，身上微微发汗便歇了。写完日记无所事事，从西藏寄回来的switch游戏机到现在仍然没有拆封的兴趣，索性躺下尝试入睡——昨夜辗转反侧的光景还历历在目，赌气般躺下看看困意会几时造访。

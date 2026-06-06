@@ -1,11 +1,11 @@
 +++
 title = "手术前的碎语"
 date = 2025-08-23T00:00:00+08:00
-draft = true
+draft = false
 slug = "before-surgery"
 description = "手术前回顾确诊以来的曲折经历，记录迟疑、恐惧和现实推着人向前。"
 tags = ["健康记录", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 周四下午，突然接到主治医生团队的电话，问我能否在第二天办理住院。可此时我人还在贵阳，即便立刻出发，也根本赶不及买票抵达广州。只能试着和医生商量：能不能稍微推迟几天？紧接着又是周末，时间实在紧张。医生在电话那头沉默片刻，最终说：**「那就安排到周一住院吧。」**

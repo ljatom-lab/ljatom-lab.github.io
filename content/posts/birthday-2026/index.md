@@ -1,11 +1,11 @@
 +++
 title = "生日快乐2026"
 date = 2026-05-23T00:00:00+08:00
-draft = true
+draft = false
 slug = "birthday-2026"
 description = "在2026年生日回望过去一年，记录病后仍继续生活的感受。"
 tags = ["个人随笔", "人生感悟"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 早上起床没一会儿，各大APP和运营商的祝福信息便纷至沓来，一遍遍提醒我：生日到了。这当中要谢谢电信，只有电信正儿八经给我送了200G流量。

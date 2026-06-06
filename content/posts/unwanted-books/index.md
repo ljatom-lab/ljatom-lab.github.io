@@ -1,11 +1,11 @@
 +++
 title = "不想看的书"
 date = 2025-04-24T00:00:00+08:00
-draft = true
+draft = false
 slug = "unwanted-books"
 description = "在求医生活的间隙，反思阅读、病痛和不必强迫自己的精神状态。"
 tags = ["个人随笔", "健康记录"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 晨光漫过高楼，我照例穿鞋下楼散步，与那些行色匆匆的人们擦肩而过，有挎公文包的、拎着菜篮的，都在晨风里走得急。唯独我衣着随意混杂其中，显得格格不入。

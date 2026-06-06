@@ -1,11 +1,11 @@
 +++
 title = "口香糖还要嚼多久"
 date = 2025-11-05T00:00:00+08:00
-draft = true
+draft = false
 slug = "chewing-gum"
 description = "从口香糖般反复咀嚼的问题里，写下对意义、困境和消耗的思考。"
 tags = ["人生感悟", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 前两天老妈不知从哪得来一个方子，弄了些黑豆、红豆、绿豆，或许还有些别的什么豆，打成一大碗黑乎乎的糊糊当做早餐，说让我连续吃一个星期，一定能见效。

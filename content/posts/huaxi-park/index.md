@@ -1,11 +1,11 @@
 +++
 title = "花溪公园游记"
 date = 2025-07-18T00:00:00+08:00
-draft = true
+draft = false
 slug = "huaxi-park"
 description = "在花溪公园的漫游中，重访童年记忆并重新感受时间的层次。"
 tags = ["个人随笔", "人生感悟"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 昨天不是周末，花溪公园里的人却不少，目光所及，大多是银发老人，以及揽着孙辈的老人，还有三三两两结伴而行的情侣。像我这种形单影只的年轻人，尤其是这般懒散、步履飘忽，犹如一片无根之叶随风游荡的，倒真成了人潮里突兀的空白，一个同类也未曾瞥见。

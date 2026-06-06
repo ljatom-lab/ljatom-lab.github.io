@@ -1,11 +1,11 @@
 +++
 title = "这是个什么问题"
 date = 2026-05-19T00:00:00+08:00
-draft = true
+draft = false
 slug = "what-kind-of-question"
 description = "面对催婚问题，反思婚姻、年龄焦虑和所谓正常轨道的压力。"
 tags = ["个人随笔", "社会观察"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 “马上36岁了，还不结婚吗？你这都成老大难问题了，怎么办啊？”

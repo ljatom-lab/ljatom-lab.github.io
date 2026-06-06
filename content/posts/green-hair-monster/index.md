@@ -1,11 +1,11 @@
 +++
 title = "重读绿毛水怪"
 date = 2025-10-05T00:00:00+08:00
-draft = true
+draft = false
 slug = "green-hair-monster"
 description = "在读不进书的低潮中重读《绿毛水怪》，重新触碰文学和自我的联系。"
 tags = ["读书笔记", "人生感悟"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 最近好像失去了分享欲，不再想写东西，也不知道该写什么。书也读不进去，整天捧着一本《西方政治思想史》，字是一个个看进去了，却不知道在讲什么。

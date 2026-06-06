@@ -1,11 +1,11 @@
 +++
 title = "为何不当孙悟空"
 date = 2025-10-11T00:00:00+08:00
-draft = true
+draft = false
 slug = "not-sun-wukong"
 description = "借孙悟空的形象，反思反抗、自由和现实秩序之间的张力。"
 tags = ["人生感悟", "读书笔记"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 现在回忆起来，四大名著当中，给我留下印象最深的还是《西游记》，也许跟每个男孩天生就带着一点「超级英雄」梦有关。

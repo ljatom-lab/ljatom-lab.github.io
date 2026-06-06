@@ -1,11 +1,11 @@
 +++
 title = "为什么我不想用中医治自己的癌症"
 date = 2025-06-16T00:00:00+08:00
-draft = true
+draft = false
 slug = "no-tcm-for-cancer"
 description = "从个人治疗选择出发，说明为何在癌症治疗中更信任现代医学路径。"
 tags = ["健康记录", "社会观察"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 今天是第三程化疗输液后的第三天。昨天和今天都特别难熬，一整天都在反复跟反胃、干呕作战，几乎没怎么吃东西。晚上洗脸时，才看到脸明显瘦了一圈，仿佛就这两天的事。

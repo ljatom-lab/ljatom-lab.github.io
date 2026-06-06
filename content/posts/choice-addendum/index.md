@@ -1,11 +1,11 @@
 +++
 title = "对选择的补充"
 date = 2026-01-24T00:00:00+08:00
-draft = true
+draft = false
 slug = "choice-addendum"
 description = "继续讨论选择的重量，以及人在不同处境中如何理解自己的决定。"
 tags = ["人生感悟", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 选择，真是个耐人寻味的话题。

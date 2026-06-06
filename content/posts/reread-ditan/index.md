@@ -1,11 +1,11 @@
 +++
 title = "重读我与地坛"
 date = 2025-06-11T00:00:00+08:00
-draft = true
+draft = false
 slug = "reread-ditan"
 description = "重读《我与地坛》，从史铁生的文字中照见病中的自己。"
 tags = ["读书笔记", "人生感悟"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 **初读《我与地坛》，读的是铁生；**

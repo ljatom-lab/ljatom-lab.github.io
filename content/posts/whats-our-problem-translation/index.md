@@ -1,11 +1,11 @@
 +++
 title = "也许是市面上最好的一版《What's our problem》译稿？"
 date = 2026-05-27T00:00:00+08:00
-draft = true
+draft = false
 slug = "whats-our-problem-translation"
 description = "记录打磨《What's Our Problem?》译稿的过程，以及由翻译引出的自我反思。"
 tags = ["读书笔记", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 终于把《What's Our Problem？》全书的中文译稿打磨完了。

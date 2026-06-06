@@ -1,11 +1,11 @@
 +++
 title = "一场书店偶遇"
 date = 2025-09-10T00:00:00+08:00
-draft = true
+draft = false
 slug = "bookstore-encounter"
 description = "在书店偶遇中暂时忘记病人身份，重新感到阅读和相遇的温度。"
 tags = ["个人随笔", "读书笔记"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 从广州回家后，我的主要任务是恢复身体。腹部还留着拔掉引流管后的三个小洞，和两道清晰的刀痕，像某种生命的印记。于是生活变成了简单的两点一线：**家和医院，我每两天去一趟造口门诊换药，让医生评估伤口愈合的情况。**

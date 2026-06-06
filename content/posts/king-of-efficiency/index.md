@@ -1,11 +1,11 @@
 +++
 title = "效率之王"
 date = 2025-10-09T00:00:00+08:00
-draft = true
+draft = false
 slug = "king-of-efficiency"
 description = "从病后身份剥离出发，反思对效率的迷恋和生活价值的重新排序。"
 tags = ["人生感悟", "社会观察"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 在之前的文章里我曾感叹，生一场重病最让人感到失控的，是社会身份的剥离。一旦你成为病人，尤其是一个癌症晚期病人，在社会生活中，你似乎会只剩下病人这一个标签。

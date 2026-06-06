@@ -1,11 +1,11 @@
 +++
 title = "肾功出了问题"
 date = 2025-04-11T00:00:00+08:00
-draft = true
+draft = false
 slug = "kidney-function"
 description = "记录肾功能指标异常后的担忧、检查和治疗节奏中的不确定感。"
 tags = ["健康记录"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 今天本该进行第一次化疗的。医生已经开好了治疗单，询问我选择国产还是进口药物。面对两者之间超过十倍的价格差，最终我还是选了国产化疗药。

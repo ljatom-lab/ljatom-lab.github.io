@@ -1,11 +1,11 @@
 +++
 title = "不要做一个聪明的看客"
 date = 2025-09-24T00:00:00+08:00
-draft = true
+draft = false
 slug = "smart-spectator"
 description = "反思旁观式聪明的傲慢，提醒自己尊重真正下场做事的人。"
 tags = ["人生感悟", "社会观察"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 任何事情，只要它存在，就总得有人去做，去完成，不论最后成败与否，结果是否完美。选择脚踏实地去做一件事，就已经很值得尊重了。

@@ -1,11 +1,11 @@
 +++
 title = "努力与天赋"
 date = 2026-01-26T00:00:00+08:00
-draft = true
+draft = false
 slug = "effort-and-talent"
 description = "讨论努力与天赋的关系，重新看待成功叙事中被忽略的条件。"
 tags = ["人生感悟", "社会观察"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 算是一些碎碎念。

@@ -1,11 +1,11 @@
 +++
 title = "化疗不适减轻些"
 date = 2025-04-20T00:00:00+08:00
-draft = true
+draft = false
 slug = "chemo-relief"
 description = "记录化疗不适稍有缓解后的饮食调整、身体变化和短暂松动的心情。"
 tags = ["健康记录", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 4月19日的晚餐到点了，但已经饿的有点等不及老妈回来做饭，叫她从外面打了小米粥和茶叶蛋，没成想吃起来还有滋有味，于是和老妈一拍即合，着手调整饮食方案。

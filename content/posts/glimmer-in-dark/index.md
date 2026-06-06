@@ -1,11 +1,11 @@
 +++
 title = "暗夜中的微光"
 date = 2025-06-09T00:00:00+08:00
-draft = true
+draft = false
 slug = "glimmer-in-dark"
 description = "在病中与萤火虫的短暂相遇里，重新感到温柔对待世界的可能。"
 tags = ["个人随笔", "人生感悟"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 今晚依旧闷热，白天的暑气还未散尽。我散完步，身上微微出汗，有些疲惫，便在小区路边的长椅上坐了下来。看着其它散步或匆匆回家的邻居们经过，心里泛起一丝难以言说的滋味。自从生病以来，这种仿佛在看戏、又游离在外的感觉，时不时就会出现。

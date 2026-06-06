@@ -1,11 +1,11 @@
 +++
 title = "写在辞旧迎新"
 date = 2025-12-24T00:00:00+08:00
-draft = true
+draft = false
 slug = "year-end-note"
 description = "在岁末回望治疗中的一年，写下比场面话更真实的总结。"
 tags = ["个人随笔", "人生感悟"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 几乎是一转眼，又快要到新的一年。

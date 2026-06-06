@@ -1,11 +1,11 @@
 +++
 title = "选择或是努力"
 date = 2025-08-25T00:00:00+08:00
-draft = true
+draft = false
 slug = "choice-or-effort"
 description = "在手术通知到来前，思考选择与努力在人生路径中的真实分量。"
 tags = ["人生感悟", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 刚接到医生的电话，通知我可以办理住院了。按常理，此时似乎应当写些与病情、手术相关的文字，或是倾诉对未来的种种思虑。但想了想，还是不忙动笔，等一切结束后再分享也不迟。

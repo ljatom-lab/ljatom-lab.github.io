@@ -1,11 +1,11 @@
 +++
 title = "读人类简史有感"
 date = 2025-10-26T00:00:00+08:00
-draft = true
+draft = false
 slug = "sapiens-notes"
 description = "重读《人类简史》，回望人类叙事、个人经历与时代想象之间的关系。"
 tags = ["读书笔记", "人生感悟"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 《人类简史》于2012年问世，2014年推出中文版，直到2016年才真正在中文互联网掀起热潮。而我直到2017年年中，才真正知晓并买下这本书，那时作者的另一部作品《未来简史》已经出版。

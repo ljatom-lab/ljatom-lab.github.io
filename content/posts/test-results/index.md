@@ -1,11 +1,11 @@
 +++
 title = "检查结果"
 date = 2025-04-07T00:00:00+08:00
-draft = true
+draft = false
 slug = "test-results"
 description = "整理检查结果和医生意见，记录确诊后对病情判断的理解与安顿。"
 tags = ["健康记录"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 最近身体状况一直不错，饮食作息调整后基本没有明显疼痛，只是偶尔有些隐隐作疼。今早看了两位医生，综合他们的意见整理如下：

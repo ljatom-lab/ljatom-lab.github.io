@@ -1,11 +1,11 @@
 +++
 title = "生命后想明白的事情"
 date = 2025-11-02T00:00:00+08:00
-draft = true
+draft = false
 slug = "after-life-lessons"
 description = "经历疾病之后，重新整理关于生命、关系和自我优先级的理解。"
 tags = ["人生感悟", "健康记录"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 昨天睡前没留神，手指不经意划过肚子上的一处伤口，是一个小洞，有东西硌着，我以为是伤口结的痂终于掉了，下意识想把它抠下来，却怎么都抠不动。低头一看，才看见那不是痂，而是一根将近一厘米长的黑线头，正从伤口中心“发芽”似的冒了出来。轻轻一碰，周围便渗出黏稠的透明液体。

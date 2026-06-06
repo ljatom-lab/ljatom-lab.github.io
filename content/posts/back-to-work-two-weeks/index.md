@@ -1,11 +1,11 @@
 +++
 title = "返岗两周"
 date = 2026-04-11T00:00:00+08:00
-draft = true
+draft = false
 slug = "back-to-work-two-weeks"
 description = "记录短暂返岗后的身体和心理变化，以及再次离开工作现场的复杂感受。"
 tags = ["健康记录", "工作记录"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 又是好长一段时间没有写东西了。

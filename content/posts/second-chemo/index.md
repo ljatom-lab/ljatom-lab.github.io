@@ -1,11 +1,11 @@
 +++
 title = "开始第二轮化疗"
 date = 2025-05-06T00:00:00+08:00
-draft = true
+draft = false
 slug = "second-chemo"
 description = "记录第二轮化疗开始前后的身体安排、心理准备和现实感受。"
 tags = ["健康记录"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 晚上打开日记文档时，光标在屏幕中央轻轻转了几圈才显出字迹，这个瞬间的等待让我有些意外，直到瞥见左下角显示「66页/28,459字」的字样，才恍然意识到——原来不知不觉间，这些日常的絮语竟已累积得如此厚重。上次这般持续伏案，还是在准备毕业论文的光景。

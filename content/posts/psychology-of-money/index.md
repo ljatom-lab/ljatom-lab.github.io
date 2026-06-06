@@ -1,11 +1,11 @@
 +++
 title = "金钱心理学读书报告"
 date = 2025-12-07T00:00:00+08:00
-draft = true
+draft = false
 slug = "psychology-of-money"
 description = "读《金钱心理学》后，反思金钱、风险、欲望和个人选择之间的关系。"
 tags = ["读书笔记", "人生感悟"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 关于做事，有两点我认为非常重要，一是开始，二是完成。

@@ -1,11 +1,11 @@
 +++
 title = "放手以成全"
 date = 2025-08-10T00:00:00+08:00
-draft = true
+draft = false
 slug = "letting-go"
 description = "从《遇见你之前》谈爱、自由与放手是否也是一种成全。"
 tags = ["电影", "人生感悟"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 第四次？还是第五次？我实在记不清是第几次看《遇见你之前》这部爱情电影了。

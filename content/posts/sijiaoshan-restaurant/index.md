@@ -1,11 +1,11 @@
 +++
 title = "四角山饭店"
 date = 2025-05-04T00:00:00+08:00
-draft = true
+draft = false
 slug = "sijiaoshan-restaurant"
 description = "借一次饭店记忆，写下地方、人情和日常味道中的生活痕迹。"
 tags = ["个人随笔", "西藏生活"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 晨起查看手机时，发现医生提醒复查的讯息静静躺在对话框里快半个月了。原来停药也已有五日，这些日子像被微风吹落的日历，溜得悄无声息。好在体感尚佳，连呼吸都轻盈不少。后天又要踏上那条熟悉的路，开启第二轮治疗，希望这副躯壳已攒足力气。

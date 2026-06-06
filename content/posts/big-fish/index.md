@@ -1,11 +1,11 @@
 +++
 title = "大鱼观后感"
 date = 2025-09-13T00:00:00+08:00
-draft = true
+draft = false
 slug = "big-fish"
 description = "借电影《大鱼》思考死亡、叙事和生命终点前仍可保有的想象力。"
 tags = ["电影", "人生感悟"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 身为一名癌症晚期患者，我最深的恐惧，并非手术和治疗的疼痛，而是即便经历了这一切，未来仍可能面对无法预知的复发与转移风险——以及随之而来的、关于生命还剩多少时间的揣测。

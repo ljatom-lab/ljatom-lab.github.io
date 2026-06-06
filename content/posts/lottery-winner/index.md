@@ -1,11 +1,11 @@
 +++
 title = "逆袭神话的背后：彩票赢家的苦难叙事"
 date = 2025-06-02T00:00:00+08:00
-draft = true
+draft = false
 slug = "lottery-winner"
 description = "透过彩票赢家叙事，反思逆袭神话、运气和优绩主义的盲点。"
 tags = ["社会观察", "人生感悟"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 这个主题在我心里盘桓已久。一开始想借4·23读书日作为阅读推荐写出来；后来「何同学乘坐网约车拒打好评」风波甚嚣尘上时，也差点动笔。但最后都作罢了，原因有二：

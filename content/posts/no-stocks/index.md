@@ -1,11 +1,11 @@
 +++
 title = "我为什么不买股票"
 date = 2026-03-24T00:00:00+08:00
-draft = true
+draft = false
 slug = "no-stocks"
 description = "从性格与风险感出发，解释自己不买股票背后的自我认识。"
 tags = ["个人随笔", "人生感悟"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 看到这个标题，你也许会自然地想，这个人接下来要讲一个关于理智与清醒的故事，类似于提前宣告胜利的审判，又似乎是要发表某种“我早就知道”式的后见之明。

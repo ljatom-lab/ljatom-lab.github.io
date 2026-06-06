@@ -1,11 +1,11 @@
 +++
 title = "做长辈要克制"
 date = 2025-07-15T00:00:00+08:00
-draft = true
+draft = false
 slug = "restrained-elders"
 description = "借一次留言回复，思考长辈表达关心时应有的分寸与克制。"
 tags = ["人生感悟", "社会观察"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 一位未曾谋面的长辈在我文章下留了言。之后许多天，我都在思索如何回复。这让我颇为踌躇——**既不想让回复显得轻飘敷衍，又怕自己摆出过来人的姿态，站在道德高地上对他人的困境指指点点。**

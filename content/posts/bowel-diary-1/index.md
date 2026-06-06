@@ -1,11 +1,11 @@
 +++
 title = "我的肠道改造日记1"
 date = 2025-09-04T00:00:00+08:00
-draft = true
+draft = false
 slug = "bowel-diary-1"
 description = "记录结肠癌手术前后的私人经验，为同样经历手术的人留下参照。"
 tags = ["健康记录"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 **【写在前面】**

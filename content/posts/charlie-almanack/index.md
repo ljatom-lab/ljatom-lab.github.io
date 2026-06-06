@@ -1,11 +1,11 @@
 +++
 title = "《穷查理宝典》读后"
 date = 2026-05-21T00:00:00+08:00
-draft = true
+draft = false
 slug = "charlie-almanack"
 description = "重读《穷查理宝典》后，反思精英叙事、成功归因与普通人如何保持清醒。"
 tags = ["读书笔记", "社会观察"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 花了两天时间把《穷查理宝典》读了一遍，开始的时候还当成“人生圣经”逐章阅读呢，越看越摸不着头脑。

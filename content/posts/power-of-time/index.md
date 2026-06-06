@@ -1,11 +1,11 @@
 +++
 title = "时光之力"
 date = 2025-04-27T00:00:00+08:00
-draft = true
+draft = false
 slug = "power-of-time"
 description = "思考时间如何改变痛苦、记忆和人在困境中的承受方式。"
 tags = ["人生感悟", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 窗外的飞机起降声裹着低沉的轰鸣，距离上次提笔竟已过去两个日子。主要原因是换了住所，倒不是说奔忙着搬家，而是老妈的故友袁阿姨执意邀我们去她家小住。

@@ -1,11 +1,11 @@
 +++
 title = "我的肠道改造日记3"
 date = 2025-09-07T00:00:00+08:00
-draft = true
+draft = false
 slug = "bowel-diary-3"
 description = "写下术前医院夜晚、身体交付和等待手术时的真实感受。"
 tags = ["健康记录"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 住院手术前的几个夜晚，我睡得都并不安稳。每隔两小时，值班护士的手电光便会准时从门缝探入，不偏不倚落在我眼前，我睡的16床，正是门边的「哨位」，毫无躲闪的余地。光斑就这样一次次扫过眼皮，每照醒一次，我就要恍惚片刻，陷进「这是哪、我是谁」的混沌里，然后又艰难地坠入下一个浅梦。

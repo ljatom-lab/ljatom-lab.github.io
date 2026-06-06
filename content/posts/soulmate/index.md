@@ -1,11 +1,11 @@
 +++
 title = "寻找soulmate"
 date = 2025-08-14T00:00:00+08:00
-draft = true
+draft = false
 slug = "soulmate"
 description = "借寻找伴侣的话题，反思理想化亲密关系和自我投射。"
 tags = ["人生感悟", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 昨天，好朋友突然问我：“你觉得找另一半最重要的是什么？”我一下子被问懵了，心想：怎么突然抛来这么形而上的问题？

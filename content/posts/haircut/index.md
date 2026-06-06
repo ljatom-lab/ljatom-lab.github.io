@@ -1,11 +1,11 @@
 +++
 title = "剪头发"
 date = 2025-04-14T00:00:00+08:00
-draft = true
+draft = false
 slug = "haircut"
 description = "在发烧、饥饿和剪发的小事里，记录病中身体与尊严的细微变化。"
 tags = ["健康记录", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 临近夏天的月光裹着薄雾漫进纱帘，预报的沙尘终究没见踪影。昨夜烧得厉害，整个人像浸在温水里浮沉，我十分怀疑就是肿瘤在作祟。没有咳嗽头疼，只是体温计上的数字执拗地地攀爬，让我想起小时候发烧，老妈安慰我说是你身体的好人和坏人在打仗。

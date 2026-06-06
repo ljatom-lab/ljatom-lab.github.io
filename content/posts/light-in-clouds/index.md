@@ -1,11 +1,11 @@
 +++
 title = "阴云中的光"
 date = 2025-04-02T00:00:00+08:00
-draft = true
+draft = false
 slug = "light-in-clouds"
 description = "确诊阴影下的第一篇记录，写下恐惧、检查和仍试图看见的光。"
 tags = ["健康记录", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 老妈总念叨让我写日记，今天决定动笔了。

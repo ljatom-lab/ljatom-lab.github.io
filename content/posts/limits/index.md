@@ -1,11 +1,11 @@
 +++
 title = "局限"
 date = 2025-12-31T00:00:00+08:00
-draft = true
+draft = false
 slug = "limits"
 description = "承认个人经验和认知的局限，也提醒自己不要轻易替他人下判断。"
 tags = ["人生感悟", "社会观察"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 最近，我和母亲的交流越来越少。根源在于我们对许多事情的看法大相径庭。每次沟通，谁都说服不了谁，彼此都觉得对方是不可理喻的顽固派。

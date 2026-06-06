@@ -1,11 +1,11 @@
 +++
 title = "谈谈AI写作"
 date = 2026-01-17T00:00:00+08:00
-draft = true
+draft = false
 slug = "ai-writing"
 description = "讨论AI写作的便利与局限，并思考人的表达为何仍然重要。"
 tags = ["社会观察", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 最近读公众号文章，除了在和强烈的算法“钩子”做斗争，努力不去看那些算法认为我想看的文章以外，最明显的感受是：AI写作越来越多了。甚至像前段时间广受口诛笔伐的闫学晶，她发出的道歉文，以我的判断，也无疑出自AI之手，实在缺乏个人真情实感。

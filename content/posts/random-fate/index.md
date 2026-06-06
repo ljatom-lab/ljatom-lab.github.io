@@ -1,11 +1,11 @@
 +++
 title = "接受随机命运"
 date = 2025-09-17T00:00:00+08:00
-draft = true
+draft = false
 slug = "random-fate"
 description = "思考命运的随机性，以及人在无法掌控时仍能选择的姿态。"
 tags = ["人生感悟", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 不久前，在我准备启程前往广州接受结肠癌根治手术的时候，一位好朋友建议我，说可以等手术后身体稍微恢复些，请一位道士来做一场法事，祈福禳灾。

@@ -1,11 +1,11 @@
 +++
 title = "划不来"
 date = 2026-05-16T00:00:00+08:00
-draft = true
+draft = false
 slug = "not-worth-it"
 description = "从一次网络争论谈起，反思消费、性价比与“划不来”背后的价值判断。"
 tags = ["社会观察", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 在高强度网上冲浪，看到两个人因为小米汽车销量吵起来了。起因是一个人在小米汽车销量夺冠的帖子下，评论了句：“说实话，多用点小米的其他产品后，就不会愿意买小米的车。”

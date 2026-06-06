@@ -1,11 +1,11 @@
 +++
 title = "春天的桌布"
 date = 2025-04-13T00:00:00+08:00
-draft = true
+draft = false
 slug = "spring-tablecloth"
 description = "在病中日常与一块桌布之间，捕捉生活继续向前的细小证据。"
 tags = ["个人随笔", "健康记录"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 动笔的时候正是周日的黄昏，窗外一抹夕阳正被厚厚的云层逐渐吞噬。其实对我而言，工作日与休息日的界限早已模糊不清。说来奇怪，我竟更期待周一的到来——唯有在向医生递上诊疗单的问候声中，才能体会到到生命向前流淌的真实感。而所谓的休息日，倒更像是被囿在透明的玻璃罩子里，明明看得见小区草坪上嬉闹的孩童，闻得到楼下飘来的桂花香，却总隔着一层难以穿透的屏障。

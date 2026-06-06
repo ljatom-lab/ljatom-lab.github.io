@@ -1,11 +1,11 @@
 +++
 title = "一首小诗"
 date = 2025-06-27T00:00:00+08:00
-draft = true
+draft = false
 slug = "poem"
 description = "从死亡与来生的想象出发，写下一首关于归于自然的小诗。"
 tags = ["人生感悟", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 上一篇文章结束时，本说要分享重读《伊凡·伊里奇之死》的体会，却意外陷入关于死亡的另一重自省：

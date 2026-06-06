@@ -1,11 +1,11 @@
 +++
 title = "我的肠道改造日记完结"
 date = 2025-09-09T00:00:00+08:00
-draft = true
+draft = false
 slug = "bowel-diary-finale"
 description = "以术后恢复作结，记录意义如何在一次次小行动中被重新拾回。"
 tags = ["健康记录", "人生感悟"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 如果说手术当日的行动受限，让我初次体验到生命意义的消散，并开始重新审视何为生活的本质；那么术后的一到两天，便是缓慢而切实地将散落的「意义」一片片拾回的过程。

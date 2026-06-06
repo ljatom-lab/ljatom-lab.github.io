@@ -1,11 +1,11 @@
 +++
 title = "我看西西弗斯"
 date = 2025-04-05T00:00:00+08:00
-draft = true
+draft = false
 slug = "sisyphus"
 description = "从跑步联想到西西弗斯，思考重复、荒诞和继续行动的意义。"
 tags = ["人生感悟", "读书笔记"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 清明假期的第二日清晨，天空下着毛毛细雨，我沿着湿漉漉的步道慢跑。当疲惫感如潮水漫过膝盖时，忽然想起加缪笔下的西西弗斯——那个被诸神惩罚永世推石上山的荒诞英雄。我甚至觉得自己跑步时机械重复的抬腿摆臂，和推石者西西弗斯产生了一种莫名的联结。

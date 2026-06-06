@@ -1,11 +1,11 @@
 +++
 title = "强权即正义"
 date = 2026-05-17T00:00:00+08:00
-draft = true
+draft = false
 slug = "might-makes-right"
 description = "围绕“强权即正义”的命题，思考权力、道德和公共判断的边界。"
 tags = ["社会观察", "读书笔记"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 最近《给阿嬷的情书》这部电影大火，前两天抱着试试看的心态去看了，结果整场下来哭得稀里哗啦，也想强力荐给身边的亲友。

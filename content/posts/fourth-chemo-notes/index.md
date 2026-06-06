@@ -1,11 +1,11 @@
 +++
 title = "四化手记"
 date = 2025-07-04T00:00:00+08:00
-draft = true
+draft = false
 slug = "fourth-chemo-notes"
 description = "记录第四程化疗中的身体反应、心理波动和治疗进度。"
 tags = ["健康记录"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 真的，化疗没有一次不是煎熬，对身体是拷打，对精神更是摧残。上次置输液港时趁着麻药劲提前扎好了针，没什么感觉。这次要重新扎针，才看见那针有多长，扎着也比普通的留置针疼。

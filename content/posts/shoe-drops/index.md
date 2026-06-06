@@ -1,11 +1,11 @@
 +++
 title = "靴子落地"
 date = 2025-04-08T00:00:00+08:00
-draft = true
+draft = false
 slug = "shoe-drops"
 description = "记录检查结论逐渐明确后的看诊、住院安排和心里那只靴子的落地。"
 tags = ["健康记录"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 今天约的下午看诊，暮春的夕阳透过诊区玻璃天窗洒在诊室窗棂上，虽然昨天提前看到了结果也做了分析，与自我研判基本吻合，但坐在候诊区的我拿着刚打出的两份检查报告，手还是微微发颤。

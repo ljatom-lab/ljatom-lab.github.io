@@ -1,11 +1,11 @@
 +++
 title = "哲人王的国度"
 date = 2025-07-24T00:00:00+08:00
-draft = true
+draft = false
 slug = "philosopher-king"
 description = "以《理想国》为入口，介绍哲人王思想及其关于正义社会的想象。"
 tags = ["读书笔记", "社会观察"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 荐读导语：**「什么是正义？我们应如何建立一个真正美好的社会？那些手握权力的人，又该拥有怎样的灵魂？」**

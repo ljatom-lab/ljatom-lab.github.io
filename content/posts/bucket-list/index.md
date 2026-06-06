@@ -1,11 +1,11 @@
 +++
 title = "遗愿清单？"
 date = 2025-04-12T00:00:00+08:00
-draft = true
+draft = false
 slug = "bucket-list"
 description = "在病中无事的一天里，思考遗愿清单、欲望和真正想要完成的事。"
 tags = ["健康记录", "人生感悟"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 今天无事可做，我几乎在房间度过了一整天，只趁着曦光与暮色分别出门漫步片刻。照昨天商量好的食谱，母亲备了两餐，我分作四顿慢慢吃，捱到晚上八点，胃里终究还是唱起了空城计——到底是缺了能量和蛋白质，看来明日得在餐食里多添些内容。

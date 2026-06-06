@@ -1,11 +1,11 @@
 +++
 title = "保留自我"
 date = 2025-05-27T00:00:00+08:00
-draft = true
+draft = false
 slug = "keep-self"
 description = "在疾病身份之外，努力保留仍能生活、表达和感受的自我。"
 tags = ["健康记录", "人生感悟"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 走出高铁车厢，广州的温热便毫无保留地拥了过来。站台边的风裹着熟悉的湿意掠过皮肤，与清晨从贵阳出门时的清凉判若云泥，心里还是更青睐贵阳沁人的温度。

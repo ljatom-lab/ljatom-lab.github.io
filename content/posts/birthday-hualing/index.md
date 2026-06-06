@@ -1,11 +1,11 @@
 +++
 title = "铧柃，生日快乐"
 date = 2025-05-23T00:00:00+08:00
-draft = true
+draft = false
 slug = "birthday-hualing"
 description = "在生日这天回望年岁、自我和仍然好好存在着的意义。"
 tags = ["个人随笔", "人生感悟"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 近来写了太多病情相关的内容，今天刚好是自己生日，想说说心里话，关于年岁流转，关于寻找自我的人生轨迹。

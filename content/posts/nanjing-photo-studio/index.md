@@ -1,11 +1,11 @@
 +++
 title = "记忆的底片：从《南京照相馆》看历史罪责的国家承担"
 date = 2025-08-02T00:00:00+08:00
-draft = true
+draft = false
 slug = "nanjing-photo-studio"
 description = "从电影《南京照相馆》出发，思考历史罪责、国家承担与集体记忆。"
 tags = ["电影", "社会观察"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 在返回广州的前一天，我和老妈一同去影院观看了电影《南京照相馆》。影片故事脉络清晰，讲述了1937年南京大屠杀期间，一群普通人围绕记录日军屠城罪证的胶片展开的生死故事。

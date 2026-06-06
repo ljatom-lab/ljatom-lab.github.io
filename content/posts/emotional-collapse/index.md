@@ -1,11 +1,11 @@
 +++
 title = "记一次情绪崩溃"
 date = 2025-05-28T00:00:00+08:00
-draft = true
+draft = false
 slug = "emotional-collapse"
 description = "记录一次情绪崩溃，承认病中脆弱并不妨碍继续保留真实的自己。"
 tags = ["健康记录", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 我其实昨天才在公众号里写下那句话：「我不仅是一个患者，我还是一个和大家一样的普通人。」事实证明，越宣扬什么，就越心虚什么。那时候我是带着一点倔强去写的，是在对抗这个病对自我身份的吞噬。我不想让「癌症患者」成为我唯一的身份，我还想保留一个可以笑、可以玩、可以吃火锅、可以快乐的自己。

@@ -1,11 +1,11 @@
 +++
 title = "接受现实，然后呢"
 date = 2026-06-02T00:00:00+08:00
-draft = true
+draft = false
 slug = "after-acceptance"
 description = "在“接受现实”之后，继续追问生活该如何展开、意义该如何重建。"
 tags = ["人生感悟", "健康记录"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 前两天，我写过一篇文章，关于自己36岁还没结婚这件事。

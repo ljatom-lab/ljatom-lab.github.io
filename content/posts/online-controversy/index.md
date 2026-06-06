@@ -1,11 +1,11 @@
 +++
 title = "对一场标准网络风波的非标准观察"
 date = 2025-09-15T00:00:00+08:00
-draft = true
+draft = false
 slug = "online-controversy"
 description = "借一次网络风波，反思选边、表达和公共讨论中的标准化反应。"
 tags = ["社会观察", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 自从哈佛毕业演讲风波之后，我就再也没有对社会热点公开发表看法了。甚至一度犹豫要不要删掉此前那两篇评论——总觉得当时那样直截了当地批评别人，心里不太踏实。

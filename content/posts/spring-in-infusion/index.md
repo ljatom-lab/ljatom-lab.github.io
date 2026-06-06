@@ -1,11 +1,11 @@
 +++
 title = "输液管中的春天"
 date = 2025-04-15T00:00:00+08:00
-draft = true
+draft = false
 slug = "spring-in-infusion"
 description = "在输液与治疗日常里，捕捉春天般微弱却真实的生活感。"
 tags = ["健康记录", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 在电脑前断断续续敲了很久，指尖总找不准按键的位置，还总是慢一拍，右手悬在桌面上方迟迟落不下去，因为只要搭在桌沿，一阵阵刺痛就会泛起。今天开始化疗了，虽然早给自己打过无数次「预防针」，可当针头真正扎进血管时，依然被神经性疼痛冲击得措手不及。

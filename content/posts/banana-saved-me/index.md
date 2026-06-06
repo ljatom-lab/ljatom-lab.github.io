@@ -1,11 +1,11 @@
 +++
 title = "香蕉救我狗命"
 date = 2025-04-16T00:00:00+08:00
-draft = true
+draft = false
 slug = "banana-saved-me"
 description = "记录化疗呕吐后的饮食尝试，以及香蕉带来的短暂拯救感。"
 tags = ["健康记录", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 手机屏幕的光刺得眼睛生疼，我在备忘录里郑重记下：16:37化疗第一次呕吐。破壁机打出来的米糊，小心翼翼数着服下的药片，都随着胃里翻江倒海的绞痛涌了出来，吐无可吐时，胃袋仍然像被无形的手反复揉捏，直到最后只剩酸水在喉头灼烧，只能弓着背等下一阵恶心过去。

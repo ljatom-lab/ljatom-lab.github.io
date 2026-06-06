@@ -1,11 +1,11 @@
 +++
 title = "又来胡说八道了"
 date = 2025-10-06T00:00:00+08:00
-draft = true
+draft = false
 slug = "more-rambling"
 description = "在读不进去书的状态里，诚实记录自我矛盾和漫无边际的思绪。"
 tags = ["个人随笔", "人生感悟"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 昨天刚说看《西方政治思想史》没劲儿，读不进去，还是看小说有意思。今天出门前偏不信邪，还是把《西方政治思想史》塞进了包里。书是大部头，一放进去，包就沉甸甸的。我右锁骨下面植了输液港，管子埋到深静脉里面去了，没法背双肩包，单肩背着又勒得生疼。于是一边走一边自我矛盾：带小说觉得荒废了时间，带这本又严重怀疑自己根本读不进去。

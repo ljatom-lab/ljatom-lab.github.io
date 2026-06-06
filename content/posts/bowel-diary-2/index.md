@@ -1,11 +1,11 @@
 +++
 title = "我的肠道改造日记2"
 date = 2025-09-05T00:00:00+08:00
-draft = true
+draft = false
 slug = "bowel-diary-2"
 description = "继续记录住院与术前准备，回看确诊以来的侥幸、拖延和现实推进。"
 tags = ["健康记录"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 周一，我正式住进了医院，这比我最初预想的日子，整整推迟了五个月。

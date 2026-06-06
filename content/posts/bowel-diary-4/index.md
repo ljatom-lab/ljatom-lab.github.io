@@ -1,11 +1,11 @@
 +++
 title = "我的肠道改造日记4"
 date = 2025-09-08T00:00:00+08:00
-draft = true
+draft = false
 slug = "bowel-diary-4"
 description = "记录术后从麻醉中醒来，到重新寻找生活意义的艰难过程。"
 tags = ["健康记录", "人生感悟"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 如果说从确诊、化疗到最终走上手术台，是一场身不由己的被动跋涉，那么术后的恢复，更像是一场关于「意义」的探索之旅——**它始于虚无，通往觉醒。**

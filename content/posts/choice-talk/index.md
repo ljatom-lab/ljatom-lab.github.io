@@ -1,11 +1,11 @@
 +++
 title = "聊聊选择"
 date = 2026-01-22T00:00:00+08:00
-draft = true
+draft = false
 slug = "choice-talk"
 description = "围绕选择谈自由、代价与人生道路中难以完全计算的部分。"
 tags = ["人生感悟", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 一位小朋友正面临职业选择的困惑，在考公这条路上，她踟蹰于大城市、小城市和家乡县城之间，迟迟拿不定主意。

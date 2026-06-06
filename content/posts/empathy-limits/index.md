@@ -1,11 +1,11 @@
 +++
 title = "无法感同身受时，我们还有什么？"
 date = 2025-07-02T00:00:00+08:00
-draft = true
+draft = false
 slug = "empathy-limits"
 description = "面对无法真正感同身受的处境，思考关心、陪伴和表达还能如何发生。"
 tags = ["人生感悟", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 这篇文章，我反复修改了很多次，也纠结了很多次要不要发出来。其中一个很大的顾虑是，担心关心我的亲朋好友们看到后，反而不敢来安慰我、联系我，怕说错话，怕打扰我。

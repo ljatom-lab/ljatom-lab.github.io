@@ -1,11 +1,11 @@
 +++
 title = "情绪决堤"
 date = 2025-04-10T00:00:00+08:00
-draft = true
+draft = false
 slug = "emotional-flood"
 description = "记录病中情绪决堤的时刻，也承认崩溃本身是治疗之外的真实部分。"
 tags = ["健康记录", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 昨夜经历了确诊以来第一次情绪决堤。白天整理化验单时，我漏看了肌酐指标——这个需要特别关注的数值正亮着红灯。虽然白天就注意到119.4µmol/L的检测值，却直到接到医生电话才惊觉，这个数字背后是化疗药物代谢的重要参考。电话早已挂断，却久久不能从耳边挪开，医生那句「肌酐值偏高」盘桓在心头无法散去。

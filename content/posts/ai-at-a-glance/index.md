@@ -1,11 +1,11 @@
 +++
 title = "一眼AI"
 date = 2026-05-06T00:00:00+08:00
-draft = true
+draft = false
 slug = "ai-at-a-glance"
 description = "从“一眼AI”的判断谈起，继续思考AI写作的痕迹与人的表达。"
 tags = ["社会观察", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 随意刷社交软件的时候偶然刷到这个视频，刚好我几个月前写过一篇文章[《谈谈AI写作》](https://mp.weixin.qq.com/s?__biz=MzIxMTYyMDE4NQ==&mid=2247484287&idx=1&sn=5ddf26810e78b7fd2c62d29dd7d1681d&scene=21#wechat_redirect)提到过，还是想再聊聊这个话题。

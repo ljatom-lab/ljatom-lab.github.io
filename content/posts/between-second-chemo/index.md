@@ -1,11 +1,11 @@
 +++
 title = "二疗间隙"
 date = 2025-05-13T00:00:00+08:00
-draft = true
+draft = false
 slug = "between-second-chemo"
 description = "在第二轮化疗间隙，记录身体反应、人生落差和继续前行的心绪。"
 tags = ["健康记录", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 又是数日没有提笔。第二个化疗周期已过半，下午将口服药余量不足的情况告知医师，天色渐暗也未收到回复。想着要明天仍无回音，便自己去便民门诊挂号续药吧。

@@ -1,11 +1,11 @@
 +++
 title = "和媛媛通话"
 date = 2025-04-22T00:00:00+08:00
-draft = true
+draft = false
 slug = "call-with-yuanyuan"
 description = "在一次通话和化疗日常里，记录病中被理解与被牵挂的安慰。"
 tags = ["个人随笔", "健康记录"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 停更两天，倒不是刻意为之，而可能是心里的话似乎暂时躲起来了，既不知道该从哪里说起，也不知道该说什么。化疗好像进入平缓的相持阶段，饭前还是会想吐，但相比刚开始的前两三天已经好上不少——当然还是不敢掉以轻心，毕竟这不过是漫长战役的初始回合。

@@ -1,11 +1,11 @@
 +++
 title = "化疗期间的絮叨"
 date = 2025-04-18T00:00:00+08:00
-draft = true
+draft = false
 slug = "chemo-ramblings"
 description = "在化疗初期的反复不适中，记录身体规律、照护和日常碎念。"
 tags = ["健康记录", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 今天的生活依然按着熟悉的节奏向前滚动。自化疗开始，渐渐适应了进食与呕吐交替的节奏——最初吃下的食物更像是为身体铺垫的缓冲剂，虽然不久后总会原样退还，但在这之后反而能抓住片刻的平静期，慢慢地、细细地把剩下的餐食吃完。过去两天的六次呕吐经历让我摸索出些门道，这个短暂的空窗期既没有反胃的预兆，也没有酸水翻涌的煎熬，倒像是找到了身体运转的小规律。

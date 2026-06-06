@@ -1,11 +1,11 @@
 +++
 title = "人最好不要把自己活成一杆枪"
 date = 2025-09-16T00:00:00+08:00
-draft = true
+draft = false
 slug = "not-a-gun"
 description = "反思把自己变成观点武器的危险，提醒表达应保留人的复杂性。"
 tags = ["社会观察", "人生感悟"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 我在昨天的文章开头，表达了我已经很久没有对时事热点进行评论了，最主要可能也是最朴素的原因是，我总觉得这样直接批评一个未曾谋面也大概率这辈子不会产生任何交集的人，心里不太踏实。

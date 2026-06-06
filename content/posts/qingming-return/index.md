@@ -1,11 +1,11 @@
 +++
 title = "清明收假"
 date = 2025-04-06T00:00:00+08:00
-draft = true
+draft = false
 slug = "qingming-return"
 description = "清明假期结束时，记录看病、生活节奏和心绪逐渐落地的过程。"
 tags = ["健康记录", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 清明小长假的最后一天，因为昨晚腹胀难受，今天吃东西格外仔细。一方面谨遵医嘱坚持流食，防止肠堵；另一方面网购的破壁机恰好到货，老妈像得了新玩具的孩子，当即拆开试用，把苹果和香蕉切成小块打成淡褐色的浆。橙黄色的果汁盛在玻璃杯里，滋味是有些奇妙，但温温热热喝下去，肠胃倒是舒坦不少。

@@ -1,11 +1,11 @@
 +++
 title = "你不是锤子，别人也不是钉子"
 date = 2025-08-18T00:00:00+08:00
-draft = true
+draft = false
 slug = "not-hammer"
 description = "提醒自己不要把他人当成待解决的问题，也不要用单一工具理解世界。"
 tags = ["人生感悟", "社会观察"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 我曾在一篇文章中写道，我们身处信息爆炸的时代，每天被海量信息和观点裹挟。吸纳之后，人便自然滋生出传播与讲述的欲望。于是，饭桌上、网络中，充斥着急于输出观点的声音。这让我不禁自问：**「当每个人都急不可待地输出时，谁来倾听？」**

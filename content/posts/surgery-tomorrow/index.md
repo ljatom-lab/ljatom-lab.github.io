@@ -1,11 +1,11 @@
 +++
 title = "明天就要手术啦"
 date = 2025-08-27T00:00:00+08:00
-draft = true
+draft = false
 slug = "surgery-tomorrow"
 description = "在手术前夜记录不安、准备和面对未知时尽量平静的自我对话。"
 tags = ["健康记录", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 周一我住进了病房，比我一开始预想的晚了5个月。昨天上午完成一轮检查，总共被抽了13管血；下午又签了好几份术前知情同意书，总算把手术定在了周四——也就是明天。

@@ -1,11 +1,11 @@
 +++
 title = "第一次回家"
 date = 2025-05-22T00:00:00+08:00
-draft = true
+draft = false
 slug = "first-trip-home"
 description = "记录化疗间隙第一次回家休整时，对家、身体和时间的复杂感受。"
 tags = ["健康记录", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 好久没和大家聊聊近况了。这段时间广州的天气实在闷热难耐，正巧原定22、23号的检查改到了27、28号，趁着中间的空档期，和老妈一拍即合，决定回家休整几天。算算日子，从初春裹着厚外套离家，到如今夏装都换了几轮，不知不觉在广州已度过四十五个日夜。收拾行李时摸着箱底未动的冬衣，恍惚间竟像触到了时光的温度。

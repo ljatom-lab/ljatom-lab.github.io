@@ -1,11 +1,11 @@
 +++
 title = "那道菜谱"
 date = 2026-05-05T00:00:00+08:00
-draft = true
+draft = false
 slug = "that-recipe"
 description = "从一道菜谱写起，回到记忆、亲情和日常生活中难以替代的味道。"
 tags = ["个人随笔", "人生感悟"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 AI 真的学不完。

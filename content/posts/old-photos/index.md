@@ -1,11 +1,11 @@
 +++
 title = "旧照片"
 date = 2025-09-29T00:00:00+08:00
-draft = true
+draft = false
 slug = "old-photos"
 description = "借旧照片回望过去，在时间和记忆里重新理解曾经的自己。"
 tags = ["个人随笔", "人生感悟"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 「桦加沙」台风来的那天，我没能去医院，待在房间里无事可做，就开始整理手机相册。没想到，里面竟存了五万多张照片，从2019年到现在拍的很多画面，一直没删。

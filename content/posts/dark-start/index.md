@@ -1,11 +1,11 @@
 +++
 title = "灰暗的人生起点并不代表任何事"
 date = 2025-07-13T00:00:00+08:00
-draft = true
+draft = false
 slug = "dark-start"
 description = "思考艰苦童年是否必然决定人生，并为创伤之外的可能性留下空间。"
 tags = ["人生感悟", "社会观察"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 不论在广州还是家里，老妈总爱跟我反复提起她童年的苦难经历：她是家里的老大，下面还有四个弟妹。在那个物质匮乏的年代，她很小就得干活挣工分，替外公外婆分担压力，却很少感受到父母的爱。

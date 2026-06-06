@@ -1,11 +1,11 @@
 +++
 title = "接受散场"
 date = 2025-12-11T00:00:00+08:00
-draft = true
+draft = false
 slug = "accepting-goodbyes"
 description = "面对关系和人生阶段的散场，学习接受那些无法被强行挽留的部分。"
 tags = ["人生感悟", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 最近，网络上弥漫着一股感怀青春、悲叹互联网黄金时代悄然逝去的情绪。人们以天涯、猫扑、人人网等一众古早网站的关闭为例，动辄说它们已离开几千天、数十年，显得格外厚重而肃穆。

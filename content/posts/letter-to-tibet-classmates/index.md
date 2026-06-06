@@ -1,11 +1,11 @@
 +++
 title = "给西藏班同学的一封信"
 date = 2025-04-23T00:00:00+08:00
-draft = true
+draft = false
 slug = "letter-to-tibet-classmates"
 description = "写给西藏班同学的一封信，表达感谢、近况和对同窗情谊的珍惜。"
 tags = ["个人随笔", "西藏生活"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 各位亲爱的MPA2022级西藏班伙伴们，大家好：

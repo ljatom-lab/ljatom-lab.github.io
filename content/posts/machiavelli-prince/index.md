@@ -1,11 +1,11 @@
 +++
 title = "当政治告别道德：重新审视马基雅维利《君主论》的颠覆性遗产"
 date = 2025-07-29T00:00:00+08:00
-draft = true
+draft = false
 slug = "machiavelli-prince"
 description = "从《君主论》出发，理解马基雅维利如何改变政治与道德的关系。"
 tags = ["读书笔记", "社会观察"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 此前一篇关于《理想国》的荐读文章，其实并不完美。它仅浅显地介绍了书中的哲人王思想，对于第一卷中苏格拉底与克法洛斯、玻勒马霍斯、色拉叙马霍斯关于“何为正义”的精彩交锋，以及后续的政体退化演变，都未作深入探讨，实属遗憾。

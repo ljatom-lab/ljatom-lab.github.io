@@ -1,11 +1,11 @@
 +++
 title = "渺小的鲸鱼"
 date = 2026-01-31T00:00:00+08:00
-draft = true
+draft = false
 slug = "small-whale"
 description = "借鲸鱼的隐喻，思考渺小、学习、生存和追寻自身位置的过程。"
 tags = ["人生感悟", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 当我看到姚明出现在《十三邀》的访谈节目中，确实有些意外。老球迷都知道，他不喜欢面对镜头，极少接受工作之外的公开采访。

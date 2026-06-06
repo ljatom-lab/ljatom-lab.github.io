@@ -1,11 +1,11 @@
 +++
 title = "新年快乐"
 date = 2026-02-17T00:00:00+08:00
-draft = true
+draft = false
 slug = "happy-new-year"
 description = "在春节的声响与记忆中，重新理解过年、告别和重新开始。"
 tags = ["个人随笔", "人生感悟"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 昨晚打开电脑时，窗外的爆竹声已经开始从稀稀疏疏渐渐变得急促而喧闹，我意识到，真正的新年，来了。

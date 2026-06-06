@@ -1,11 +1,11 @@
 +++
 title = "挺过三疗"
 date = 2025-06-14T00:00:00+08:00
-draft = true
+draft = false
 slug = "surviving-third-chemo"
 description = "记录第三轮化疗后的身体恢复、治疗副作用和撑过去的阶段感。"
 tags = ["健康记录"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 前天（6月12日），我完成了第三轮化疗的输液部分。流程还是熟悉的那套：先打免疫针，再输保护胃肠的药，最后由奥沙利铂收尾。尽管已经是第三次，身体还是会因这些化学药物的侵入而悸动不安，但好歹知道该怎么准备、该怎么撑过去。

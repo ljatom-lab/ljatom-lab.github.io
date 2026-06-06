@@ -1,11 +1,11 @@
 +++
 title = "鹤立鸡群"
 date = 2026-05-13T00:00:00+08:00
-draft = true
+draft = false
 slug = "standing-out"
 description = "从童话式逆袭谈起，反思现实中关于出众、错配与自我期待的叙事。"
 tags = ["人生感悟", "社会观察"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 有些童话故事，我们从小就听过。比如丑小鸭变天鹅，灰姑娘穿上水晶鞋，青蛙被吻了一下就变回王子，它们讲的都是一种身份错配，最终被纠正，迎来如现实短剧般爽快的结局。

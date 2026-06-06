@@ -1,11 +1,11 @@
 +++
 title = "一部好看又不好看的电影"
 date = 2025-05-02T00:00:00+08:00
-draft = true
+draft = false
 slug = "good-and-bad-movie"
 description = "从一部复杂的电影观感写起，连接病中生活、审美和现实处境。"
 tags = ["电影", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 这几天一直没顾上写日记，上次动笔还是离开袁姨家时给她写了封感谢信。虽然很想把这份心意分享在公众号上，但思来想去还是把文字悄悄收了起来。

@@ -1,11 +1,11 @@
 +++
 title = "化疗后的挣扎"
 date = 2025-05-10T00:00:00+08:00
-draft = true
+draft = false
 slug = "after-chemo-struggle"
 description = "写下化疗后的疼痛、疲惫和在治疗流程中艰难维持的自我感。"
 tags = ["健康记录", "个人随笔"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 5月7日正式进二程化疗，需要住院输液，当天一大早就去内科院区办理了住院手续。很幸运地分到了一个床位，病房里两位邻床大叔正在聊天，灰白头发在晨光里微微发亮，恍惚间像是看见了父亲的背影。

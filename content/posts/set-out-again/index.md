@@ -1,11 +1,11 @@
 +++
 title = "再次出发"
 date = 2025-06-30T00:00:00+08:00
-draft = true
+draft = false
 slug = "set-out-again"
 description = "在三化后的调整期，记录身体好转与下一轮治疗临近之间的焦虑。"
 tags = ["健康记录"]
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 +++
 我的治疗方案在术前是四程化疗，每程都是“14+7”方案：包含14天的持续化疗和7天的调整恢复。目前正处在三化后的7天停药调整期，身体感觉确实在好转。虽然手脚麻木等副作用出现得更频繁了，胃口也还是不太好，但整体状态恢复了不少。
