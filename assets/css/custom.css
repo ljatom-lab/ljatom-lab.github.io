@@ -1,4 +1,8 @@
 /* Article detail page only. Congo loads this file after the theme CSS. */
+html:not(.dark) body.bg-neutral {
+  background-color: rgb(250, 249, 245);
+}
+
 main#main-content > article > section.prose > div.min-h-0.min-w-0.max-w-prose.grow {
   width: 100%;
   max-width: min(100%, 76ch);

@@ -5,7 +5,7 @@ baseURL = "https://hualing.me/"
 defaultContentLanguage = "zh-Hans"
 
 enableRobotsTXT = true
-summaryLength = 0
+summaryLength = 50
 
 [pagination]
   pagerSize = 10
