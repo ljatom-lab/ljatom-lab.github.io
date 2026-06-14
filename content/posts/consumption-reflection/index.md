@@ -7,7 +7,7 @@ slug = "consumption-reflection"
 description = "从一次想买 MacBook Air 的冲动出发，重新计算消费背后的时间、注意力和生活秩序成本。"
 tags = ["个人随笔", "人生选择"]
 showTableOfContents = true
-showReadingTime = true
+showReadingTime = false
 +++
 
 确诊重病的那一刻，我卡里只剩下不到两万块钱。在此之前，我是个彻头彻尾的月光族。
